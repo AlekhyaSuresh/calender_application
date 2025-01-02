@@ -5,13 +5,13 @@
   "type": "module",
   "homepage": "https://AlekhyaSuresh.github.io/calender_application",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "@fullcalendar/core": "^6.1.10",
     "@fullcalendar/daygrid": "^6.1.10",
